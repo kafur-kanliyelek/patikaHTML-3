@@ -1,1 +1,1 @@
-patika.dev sitesi HTML bölümü için verilen 3. ödevdir. HTML kullanılarak bir tarif sayfası  yapılması istenmiştir.
+patika.dev sitesi HTML bölümü için verilen 3. ödevdir. HTML kullanılarak bir tarif sayfası  yapılması istenmiştir. img dosyasından ödev için verilen örnek web sitesi şablonuna ulaşabilirsiniz.
