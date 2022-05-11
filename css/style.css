@@ -1,0 +1,55 @@
+body{
+    background-color: #E0C9A9;
+}
+
+h1.baslik{
+    color: #5e2610;
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+    color: #3f1419;
+}
+
+a:hover{
+    color: #c0392b;
+}
+
+
+
+.genel{
+    
+    list-style-type: none;
+    margin-left:40%;
+    margin-right: 15%;
+    
+}
+
+.genel li{
+    float:left;
+    margin: 1%;
+    display: inline;
+    font-weight:600;
+    
+
+}
+
+.hizala{
+    margin-left:40%;
+    margin-right: 20%;
+
+}
+
+h2{
+    background-color: #963102;
+    color: aliceblue;
+    border-radius: 10px;
+    display: inline;
+}
+
+.afiyet{
+    margin-left:70%;
+    margin-right: 20%;
+    font-family: Cursive ;
+}
