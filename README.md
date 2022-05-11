@@ -1,0 +1,1 @@
+patika.dev sitesi HTML bölümü için verilen 3. ödevdir. HTML kullanılarak bir tarif sayfası  yapılması istenmiştir.
